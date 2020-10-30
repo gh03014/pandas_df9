@@ -5,3 +5,5 @@
 5. add_subplot()을 사용해 서브 plot 추가 생성
 6. set_ylim()을 사용해 좌표 눈금의 최솟값과 최댓값 설정
 7. twinx()를 사용해 x, y축의 라벨을 양방향에 모두 표시
+
+개발환경: python3.6.7(32bit), Windows 10
